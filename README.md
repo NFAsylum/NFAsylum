@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt-br.md)
+
 # Hello, I'm Marco
 
 Backend developer and game developer from Brazil. I like math and stories.
