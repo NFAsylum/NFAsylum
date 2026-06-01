@@ -17,9 +17,11 @@ Trabalhei como ML Software Engineer na Iosys Ltd., criando workflows de ML, REST
 
 ## Projetos em Destaque
 
-**[MultiLingualCode (Babel)](https://github.com/NFAsylum/babel-tcc)** - Extensão do VS Code para tradução visual em tempo real de keywords e identificadores de código. Suporta C# (89 keywords) e Python (35 keywords) em 10 idiomas. Feito com C#/.NET 8, Roslyn e TypeScript. 500+ testes, CI/CD com GitHub Actions.
+**[MultiLingualCode (Babel)](https://github.com/NFAsylum/babel-tcc)** - Extensão do VS Code para tradução visual em tempo real de keywords e identificadores de código, publicada na VS Code marketplace e Open VSX. Suporta C#, Python, VisuAlg e Portugol Studio em 10 idiomas. Feito com C#/.NET 8, Roslyn e TypeScript. 800+ testes, CI/CD com GitHub Actions.
 
 **[Babel Translation Tables](https://github.com/NFAsylum/babel-tcc-translations)** - Tabelas de tradução para o MultiLingualCode. Mapeamento de keywords para 10 idiomas com validação automatizada via GitHub Actions.
+
+**[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Quadro Kanban criado com React e C# .NET, usa Postgres para armazenamento e JWT para autenticação.
 
 ## Links
 
@@ -43,9 +45,11 @@ I worked as ML Software Engineer at Iosys Ltd., creating ML workflows, REST APIs
 
 ## Featured Projects
 
-**[MultiLingualCode (Babel)](https://github.com/NFAsylum/babel-tcc)** - VS Code extension for real-time visual translation of programming keywords and identifiers. Supports C# (89 keywords) and Python (35 keywords) in 10 languages. Built with C#/.NET 8, Roslyn, and TypeScript. 500+ tests, CI/CD with GitHub Actions.
+**[MultiLingualCode (Babel)](https://github.com/NFAsylum/babel-tcc)** - VS Code extension for real-time visual translation of programming keywords and identifiers, published on VS Code marketplace and Open VSX. Supports C#, Python, VisuAlg and Portugol Studio in 10 languages. Built with C#/.NET 8, Roslyn, and TypeScript. 800+ tests, CI/CD with GitHub Actions.
 
 **[Babel Translation Tables](https://github.com/NFAsylum/babel-tcc-translations)** - Translation tables for MultiLingualCode. Keyword mappings for 10 natural languages with automated validation via GitHub Actions.
+
+**[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Full-stack Kanban board created with React and C# .NET, uses Postgres for storage and JWT for auth.
 
 ## Links
 
