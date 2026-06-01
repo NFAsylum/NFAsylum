@@ -3,13 +3,17 @@
 
 # Olá, sou o Marco
 
-Desenvolvedor backend e game developer do Brasil. Gosto de matemática e histórias.
+Engenheiro de software do Brasil, focado em backend systems e integração de IA generativa. Também faço jogos como hobby.
 
 Trabalhei como ML Software Engineer na Iosys Ltd., criando workflows de ML, REST APIs e pipelines de geração de imagem com C#/.NET e Python. Programo há 6 anos, desenvolvendo e publicando jogos como [Wave Survivor](https://marco-antonio-s.itch.io/wave-survivor), [The Forest Guardians](https://marco-antonio-s.itch.io/the-forest-guardians) e [Card's Anything](https://marco-antonio-s.itch.io/cards-anything).
 
 ## Tech Stack
 
-**Backend:** C#, .NET, Blazor, Python, Docker, SQLite, REST APIs, Git
+**Backend:** C#, .NET, ASP.NET Core, EF Core, Blazor, REST APIs, PostgreSQL, SQLite, Docker, GitHub Actions, Linux
+
+**Frontend:** React 19, TypeScript, Tailwind CSS
+
+**AI/ML:** Stable Diffusion, Flux, CPPN, Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
 
 **Game Dev:** Unity, Unreal Engine, Roblox Studio, Blender, MagicaVoxel
 
@@ -31,13 +35,17 @@ Trabalhei como ML Software Engineer na Iosys Ltd., criando workflows de ML, REST
 
 # Hello, I'm Marco
 
-Backend developer and game developer from Brazil. I like math and stories.
+Software engineer from Brazil, focused on backend systems and generative AI integration. Game dev as a hobby.
 
-I worked as ML Software Engineer at Iosys Ltd., creating ML workflows, REST APIs, and image generation pipelines with C#/.NET and Python. I have been programming for 6 years, developing and publishing games such as [Wave Survivor](https://marco-antonio-s.itch.io/wave-survivor), [The Forest Guardians](https://marco-antonio-s.itch.io/the-forest-guardians), and [Card's Anything](https://marco-antonio-s.itch.io/cards-anything).
+At Iosys Ltd. I worked as ML Software Engineer building production AI systems: multi-model image generation pipelines (Flux, Stable Diffusion 1.5/3.5/SDXL) serving up to 10k images/day, a CPPN procedural neural generation system, a domain-specific language for LLM-driven 3D scene generation, and LLM-driven WebGL shader pipelines. Maintained Anthropic and OpenAI API integrations in production. I have been programming for 6 years, developing and publishing games such as [Wave Survivor](https://marco-antonio-s.itch.io/wave-survivor), [The Forest Guardians](https://marco-antonio-s.itch.io/the-forest-guardians), and [Card's Anything](https://marco-antonio-s.itch.io/cards-anything).
 
 ## Tech Stack
 
-**Backend:** C#, .NET, Blazor, Python, Docker, SQLite, REST APIs, Git
+**Backend:** C#, .NET, ASP.NET Core, EF Core, Blazor, REST APIs, PostgreSQL, SQLite, Docker, GitHub Actions, Linux
+
+**Frontend:** React 19, TypeScript, Tailwind CSS
+
+**AI/ML:** Stable Diffusion, Flux, CPPN, Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
 
 **Game Dev:** Unity, Unreal Engine, Roblox Studio, Blender, MagicaVoxel
 
