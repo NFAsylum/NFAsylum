@@ -5,7 +5,7 @@
 
 Engenheiro de software do Brasil, focado em backend systems e integração de IA generativa. Também faço jogos como hobby.
 
-Trabalhei como ML Software Engineer na Iosys Ltd., criando workflows de ML, REST APIs e pipelines de geração de imagem com C#/.NET e Python. Programo há 6 anos, desenvolvendo e publicando jogos como [Wave Survivor](https://marco-antonio-s.itch.io/wave-survivor), [The Forest Guardians](https://marco-antonio-s.itch.io/the-forest-guardians) e [Card's Anything](https://marco-antonio-s.itch.io/cards-anything).
+Na Iosys Ltd. trabalhei como ML Software Engineer construindo sistemas de IA em produção: pipelines multi-modelo de geração de imagens (Flux, Stable Diffusion 1.5/3.5/SDXL) servindo até 10 mil imagens/dia, um sistema CPPN de geração neural procedural, uma linguagem de domínio específico para geração de cenas 3D guiada por LLM, e pipelines de geração de shaders WebGL guiados por LLM. Mantive integrações com APIs Anthropic e OpenAI em produção. Programo há 6 anos, desenvolvendo e publicando jogos como [Wave Survivor](https://marco-antonio-s.itch.io/wave-survivor), [The Forest Guardians](https://marco-antonio-s.itch.io/the-forest-guardians) e [Card's Anything](https://marco-antonio-s.itch.io/cards-anything).
 
 ## Tech Stack
 
