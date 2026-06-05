@@ -13,7 +13,7 @@ Na Iosys Ltd. trabalhei como ML Software Engineer construindo sistemas de IA em 
 
 **Frontend:** React 19, TypeScript, Tailwind CSS
 
-**AI/ML:** Stable Diffusion, Flux, CPPN, Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
+**AI/ML:** Stable Diffusion, Flux, [CPPN](https://github.com/NFAsylum/cppn), Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
 
 **Game Dev:** Unity, Unreal Engine, Roblox Studio, Blender, MagicaVoxel
 
@@ -26,6 +26,8 @@ Na Iosys Ltd. trabalhei como ML Software Engineer construindo sistemas de IA em 
 **[Babel Translation Tables](https://github.com/NFAsylum/babel-tcc-translations)** - Tabelas de tradução para o MultiLingualCode. Mapeamento de keywords para 10 idiomas com validação automatizada via GitHub Actions.
 
 **[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Quadro Kanban criado com React e C# .NET, usa Postgres para armazenamento e JWT para autenticação.
+
+**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks em PyTorch, representação neural implícita para compressão de imagem. Inclui modos de arte procedural aleatória (pesos aleatórios) e overfit de imagem única com limitações documentadas (spectral bias, model collapse).
 
 ## Links
 
@@ -45,7 +47,7 @@ At Iosys Ltd. I worked as ML Software Engineer building production AI systems: m
 
 **Frontend:** React 19, TypeScript, Tailwind CSS
 
-**AI/ML:** Stable Diffusion, Flux, CPPN, Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
+**AI/ML:** Stable Diffusion, Flux, [CPPN](https://github.com/NFAsylum/cppn), Anthropic API, OpenAI API, image generation pipelines, LLM-driven content generation, Roslyn (AST)
 
 **Game Dev:** Unity, Unreal Engine, Roblox Studio, Blender, MagicaVoxel
 
@@ -58,6 +60,8 @@ At Iosys Ltd. I worked as ML Software Engineer building production AI systems: m
 **[Babel Translation Tables](https://github.com/NFAsylum/babel-tcc-translations)** - Translation tables for MultiLingualCode. Keyword mappings for 10 natural languages with automated validation via GitHub Actions.
 
 **[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Full-stack Kanban board created with React and C# .NET, uses Postgres for storage and JWT for auth.
+
+**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks in PyTorch, implicit neural representation for image compression. Includes random procedural art (random weights) and single-image overfit modes with documented limitations (spectral bias, model collapse).
 
 ## Links
 
