@@ -27,7 +27,7 @@ Na Iosys Ltd. trabalhei como ML Software Engineer construindo sistemas de IA em 
 
 **[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Quadro Kanban criado com React e C# .NET, usa Postgres para armazenamento e JWT para autenticação.
 
-**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks em PyTorch, representação neural implícita para compressão de imagem. Inclui modos de arte procedural aleatória (pesos aleatórios) e overfit de imagem única com limitações documentadas (spectral bias, model collapse).
+**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks em PyTorch, representação neural implícita para compressão de imagem. Inclui modos de arte procedural aleatória (pesos aleatórios) e overfit de imagem única com limitações documentadas (spectral bias, dead network em arquiteturas profundas).
 
 ## Links
 
@@ -61,7 +61,7 @@ At Iosys Ltd. I worked as ML Software Engineer building production AI systems: m
 
 **[TaskFlow](https://github.com/NFAsylum/TaskFlow)** - Full-stack Kanban board created with React and C# .NET, uses Postgres for storage and JWT for auth.
 
-**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks in PyTorch, implicit neural representation for image compression. Includes random procedural art (random weights) and single-image overfit modes with documented limitations (spectral bias, model collapse).
+**[CPPN](https://github.com/NFAsylum/cppn)** - Compositional Pattern-Producing Networks in PyTorch, implicit neural representation for image compression. Includes random procedural art (random weights) and single-image overfit modes with documented limitations (spectral bias, dead network at deeper architectures).
 
 ## Links
 
